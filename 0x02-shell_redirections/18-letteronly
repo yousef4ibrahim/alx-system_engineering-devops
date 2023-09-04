@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp '^[:alpha:]' /etc/sshd_config
+gerp '^[[:alpha:]]' /etc/sshd_config
